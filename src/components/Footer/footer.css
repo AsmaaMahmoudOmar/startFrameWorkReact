@@ -1,0 +1,13 @@
+#footer{
+    background-color: #2C3E50;
+}
+#copy{
+    background-color: #1A252F;
+}
+.icon{
+    display: grid;
+    place-items: center;
+    width: 30px;
+    height: 30px;
+    margin-right: 7px;
+}

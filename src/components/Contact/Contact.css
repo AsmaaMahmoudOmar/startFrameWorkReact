@@ -1,0 +1,11 @@
+#contact .star::after,#contact .star::before{
+    background-color: #2C3E50;
+  }
+
+.label{
+    background-color: aqua;
+    top:50px;
+}
+#btn{
+  background-color: #1ABC9C;
+}
